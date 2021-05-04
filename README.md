@@ -12,7 +12,7 @@ ddCt qPCR analysis
 Outlier analysis and removal  
 Label renaming  
 Ordering of samples  
-Automatic statistics (Both ANOVA and T-test)  
+Automatic statistics (Both ANOVA and different t-tests)  
 Easy plotting and exporting  
 
 ## Preparations
