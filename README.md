@@ -22,7 +22,7 @@ Please label the wells Sample-Target-ReplicateNumber. E.g. Samp1-Targ1-1 or Cond
 ### After running the qPCR machine but before running the Shining-qPCR app
 Collect the wells column, Cq column and (if desired) Melt Temperature column in a separate sheet. See the example sheet (exampleSheet) for further details. The __Shining-qPCR__ app automatically sets the last sheet of the excel document. No further manual processing is needed.   
 
-## When running
+## When running the Shining-qPCR app
 
 The app is quite intuitive. Start with choosing what excel document to analyze and the different analysis options will appear. Please remember to push the __ddCt__ button before going to the Results tab.  
 
