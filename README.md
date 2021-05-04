@@ -20,7 +20,7 @@ Easy plotting and exporting
 Please label the wells Sample-Target-ReplicateNumber. E.g. Samp1-Targ1-1 or Condition1-Gene1-1. See the first column in the example excel document (exampleSheet) for further details.
 
 ### After running the qPCR machine but before running the Shining-qPCR app
-Collect the wells column, Cq column and (if desired) Melt Temperature column in a separate sheet. See the example sheet (exampleSheet) for further details. The __smartPARE__ app automatically sets the last sheet of the excel document. No further manual processing is needed.   
+Collect the wells column, Cq column and (if desired) Melt Temperature column in a separate sheet. See the example sheet (exampleSheet) for further details. The __Shining-qPCR__ app automatically sets the last sheet of the excel document. No further manual processing is needed.   
 
 ## When running
 
