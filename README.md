@@ -8,7 +8,7 @@ runGitHub( "Shining-qPCR", "KristianHoden")
 <a href="https://zenodo.org/badge/latestdoi/351428022"><img src="https://zenodo.org/badge/351428022.svg" alt="DOI"></a>
 
 ## Features
-ddCT qPCR analysis  
+ddCt qPCR analysis  
 Outlier analysis and removal  
 Label renaming  
 Ordering of samples  
